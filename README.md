@@ -49,6 +49,11 @@ TODOS:
 
 ## How to use
 
+### Install CCTX
+
+```
+npm install ccxt
+```
 
 ### [optional] Preinstall
 
